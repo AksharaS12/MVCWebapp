@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+
+th.title   { background-color: #ef8429;
+             font-size: 28px;
+             font-family: Arial, Helvetica, sans-serif;
+}
+th { background-color: #ef8429;
+     font-size: 18px;
+     font-family: Arial, Helvetica, sans-serif;
+}
+td { font-size: 18px;
+     font-family: Arial, Helvetica, sans-serif;
+}
+a{
+	font-color: white;
+}
